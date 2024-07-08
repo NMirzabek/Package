@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e56a5342-ca24-4fe4-b37f-38ffc750aacf" name="Changes" comment="could not add new branch">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e56a5342-ca24-4fe4-b37f-38ffc750aacf" name="Changes" comment="Created a new branch and Added other three method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720411004385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created a new branch and Added other three method">
+      <option name="closed" value="true" />
+      <created>1720411804292</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720411804292</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created a new branch and Added other three method">
+      <option name="closed" value="true" />
+      <created>1720411931618</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720411931618</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="could not add new branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="could not add new branch" />
+    <MESSAGE value="Created a new branch and Added other three method!" />
+    <MESSAGE value="Created a new branch and Added other three method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a new branch and Added other three method" />
   </component>
 </project>
