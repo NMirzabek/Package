@@ -13,6 +13,9 @@ public class Main {
         Animal animal = new Animal(4,"Black");
         Pet pet = new Pet(4, "White", "CatDog");
         Bird bird = new Bird(2, "Brown", "Fly", 1.5);
+
+        boolean Bat = false;
+        System.out.println(Bat);
         //all of them are objects that are using the proper
         // ties of the animal;
 
