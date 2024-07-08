@@ -4,42 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e56a5342-ca24-4fe4-b37f-38ffc750aacf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electronic/Items/CordPhones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electronic/Items/Earplugs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electronic/Items/ElectronicItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electronic/Items/MobilePhones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electronic/Items/Phones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electronic/Items/SoundSystems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electronic/Items/Stereos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transport/OOP/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transport/OOP/Intercity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transport/OOP/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transport/OOP/Tram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transport/OOP/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transport/OOP/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transport/OOP/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/pdp/Books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/pdp/EBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/pdp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/pdp/PaperBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Bat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Straus.java" afterDir="false" />
+    <list default="true" id="e56a5342-ca24-4fe4-b37f-38ffc750aacf" name="Changes" comment="could not add new branch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdpPackage/byMirzabek/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -70,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "NewBranch",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/OOPLessons/InheritanceLessons/Inheritance/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -85,6 +57,15 @@
       <option name="presentableId" value="Default" />
       <updated>1720178908704</updated>
     </task>
+    <task id="LOCAL-00001" summary="could not add new branch">
+      <option name="closed" value="true" />
+      <created>1720411004385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720411004385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="could not add new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="could not add new branch" />
   </component>
 </project>
